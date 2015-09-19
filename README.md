@@ -1,6 +1,9 @@
 # VTSTech-40hex
 
-VTSTech-40hex v0.1 Python Version     
+VTSTech-40hex v0.1 Python Version
+
+<img src="http://i.gyazo.com/86c83e6c4952cc778a366bf024081aca.png">
+
 Facebook: http://www.facebook.com/VTSTech        
 Twitter: @VTSTech_                    
 Web: http://www.VTS-Tech.org                 
